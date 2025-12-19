@@ -17,6 +17,9 @@ This project analyzes differences between AI-generated and human-written text us
 - Topic-wise comparison
 - Growth trends over time
 
+## Dashboard Overview
+![Dashboard Overview](screenshots/main-dashboard.png)
+
 ## How to View
 - Download the `.pbix` file and open it using **Power BI Desktop**
 - Screenshots are provided for quick preview
